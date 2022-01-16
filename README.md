@@ -14,4 +14,4 @@ Then run the Python file:
 reference:
 https://qiita.com/wf-yamaday/items/3ffdcc15a5878b279d61
 
-You may find easir using Google Colaboratory as spaCy environment is already included.
+You may find easier using Google Colaboratory as spaCy environment is already included.
